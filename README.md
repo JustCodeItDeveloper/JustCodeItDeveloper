@@ -5,7 +5,8 @@
 ```javascript
 const KeepCoding = {
     code: [
-        "BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
+        "BLOG TÉCNICO SOBRE DESARROLLO MOBILE",
+        "DESARROLLO WEB",
         "BIG DATA & MACHINE LEARNING", 
         "DEVOPS", 
         "CIBERSEGURIDAD",
